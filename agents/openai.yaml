@@ -1,0 +1,3 @@
+interface:
+  display_name: "Repair UI Copy"
+  short_description: "Fix garbled copy and text overflow in UI"
