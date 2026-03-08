@@ -1,6 +1,6 @@
 # repair-ui-copy
 
-A Codex skill for fixing broken UI copy, garbled Chinese text, and layout issues caused by long labels.
+A Codex skill for fixing broken UI copy, garbled text, and layout issues caused by long labels.
 
 ## What it captures
 - Source-level repair for corrupted strings
@@ -14,5 +14,5 @@ A Codex skill for fixing broken UI copy, garbled Chinese text, and layout issues
 3. Start a new Codex session.
 
 ## Example prompt
-- ?????????????
-- ??????????????
+- Repair question-mark placeholders and garbled UI text.
+- Prevent long project names from breaking the layout.
